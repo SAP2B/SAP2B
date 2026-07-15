@@ -11,6 +11,8 @@
 <h5>Optimizing Clock Cycles</h5>
 <h6>Down to the metal</h6>
 
+<img src="cc.png" alt="cc code geas">
+
 </td>
 
 <td width="500" valign="top">
