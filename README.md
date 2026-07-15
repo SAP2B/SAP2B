@@ -2,7 +2,7 @@
 <tr style="margin: 0; padding: 0;">
 <td valign="top" align="center" style="padding: 0; margin: 0;">
 
-<img src="2b.gif" width="320">
+<img src="2b.gif" width="320" style="display:block;margin:0;padding:0;border:0;">
 
 <h1>@SAP2B</h1>
 <h3>Hardware & Systems Architect</h3>
@@ -22,7 +22,7 @@
 <br/>
 <br/>
 
-<img src="cc.png" alt="cc code geas">
+<img src="cc.png" alt="cc code geas" style="display:block;margin:0;padding:0;border:0;">
 
 </td>
 
