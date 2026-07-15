@@ -13,7 +13,7 @@
 
 </td>
 
-<td valign="top">
+<td width="500" valign="top">
 
 <pre>
 SAP2B/
