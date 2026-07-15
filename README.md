@@ -1,15 +1,26 @@
-<table>
-<tr>
+<table style="margin: 0; padding: 0; border-spacing: 0;">
+<tr style="margin: 0; padding: 0;">
+<td valign="top" align="center" style="padding: 0; margin: 0;">
 
-<td valign="top" align="center">
-
-<img src="https://avatars.githubusercontent.com/u/297734548?v=4" width="320">
+<img src="2b.gif" width="320">
 
 <h1>@SAP2B</h1>
 <h3>Hardware & Systems Architect</h3>
 <h4>Bit Twiddler & Logic Designer</h4>
 <h5>Optimizing Clock Cycles</h5>
 <h6>Down to the metal</h6>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <img src="cc.png" alt="cc code geas">
 
