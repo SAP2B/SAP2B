@@ -37,7 +37,7 @@
 📁 SAP2B/
  ├── 📁 stack/
  │    ├── 🌕 nvim.lua
- │    ├── 👾 main.as
+ │    ├── 👾 main.S
  │    ├── 🐧 ubuntu.c
  │    ├── 🐧 arch.c
  │    ├── 🐧 alpine.c
