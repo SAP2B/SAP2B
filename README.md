@@ -30,7 +30,8 @@
 <td width="500" valign="top">
 
 <pre>
-<h2>SAP2B/
+<h2>
+📁 SAP2B/
 ├── 📁 stack/
 │    ├── 🌕 nvim.lua
 │    ├── 👾 main.as
