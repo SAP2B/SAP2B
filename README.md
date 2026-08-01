@@ -1,6 +1,7 @@
 <table style="margin: 0; padding: 0; border-spacing: 0;">
 <tr style="margin: 0; padding: 0;">
-<td valign="top" align="center" style="padding: 0; margin: 0;">
+
+<td valign="top" align="center" style="padding: 0; margin: 0; border: 0;">
 
 <img src="2b.gif" width="320" style="display:block;margin:0;padding:0;border:0;">
 
