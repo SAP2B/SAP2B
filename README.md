@@ -35,15 +35,15 @@
 <h2>
 <pre>
 📁 SAP2B/
-├── 📁 stack/
+├─ 📁 stack/
 │   ├── 🌕 nvim.lua
 │   ├── 👾 main.S
 │   ├── 🐧 ubuntu.c
 │   ├── 🐧 arch.c
 │   ├── 🐧 alpine.c
 │   └── 🦀 rust.rs
-├── 📁 kyun/
-│   └── 📁 src/
+├─ 📁 kyun/
+│   └─ 📁 src/
 │       ├── 🦀 main.rs
 │       ├── 🦀 demoscene.rs
 │       ├── 🦀 siren.rs
@@ -53,13 +53,13 @@
 │       ├── 🦀 nasa.rs
 │       ├── 🦀 spacex.rs
 │       └── 🦀 hft.rs
-├── 📁 kyunotes/
-│   └── 📁 src/
+├─ 📁 kyunotes/
+│   └─ 📁 src/
 │       ├── 🦀 main.rs
 │       ├── 🦀 cert.rs
 │       ├── 🦀 nfe.rs
 │       └── 🦀 sefaz_soap.rs
-├── 📁 music/
+├─ 📁 music/
 │   ├── 🎸 rock
 │   ├── 🤘 metal
 │   ├── ⚡ electronic
@@ -67,11 +67,11 @@
 │   ├── 🎻 classical
 │   ├── 🌌 ambient
 │   └── ⚙️ industrial
-├── 📁 languages/
+├─ 📁 languages/
 │   ├── 🇯🇵 japanese
 │   ├── 🇧🇷 portuguese
 │   └── 🇺🇸 english
-└── 📁 anime/
+└─ 📁 anime/
     ├── ♟️ code_geass
     ├── 📓 death_note
     ├── 👹 monster
