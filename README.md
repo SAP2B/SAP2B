@@ -83,6 +83,7 @@
     ├── 🤖 ghost_in_the_shell
     ├── 🛡️ vinland_saga
     ├── 🗡️ berserk
+    ├── 🧝🏻‍♀️ elfen_lied
     └── 🎣 hunter_x_hunter
 </pre>
 </h2>
