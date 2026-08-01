@@ -42,8 +42,8 @@
 │   ├── 🐧 arch.c
 │   ├── 🐧 alpine.c
 │   └── 🦀 rust.rs
-├─ 📁 kyun/
-│   └─ 📁 src/
+├─ 📁 kyaaa/
+│   └ 📁 src/
 │       ├── 🦀 main.rs
 │       ├── 🦀 demoscene.rs
 │       ├── 🦀 siren.rs
@@ -52,9 +52,10 @@
 │       ├── 🦀 gameboy.rs
 │       ├── 🦀 nasa.rs
 │       ├── 🦀 spacex.rs
+│       ├── 🦀 forth.rs
 │       └── 🦀 hft.rs
-├─ 📁 kyunotes/
-│   └─ 📁 src/
+├─ 📁 bitnotes/
+│   └ 📁 src/
 │       ├── 🦀 main.rs
 │       ├── 🦀 cert.rs
 │       ├── 🦀 nfe.rs
@@ -71,7 +72,7 @@
 │   ├── 🇯🇵 japanese
 │   ├── 🇧🇷 portuguese
 │   └── 🇺🇸 english
-└─ 📁 anime/
+└ 📁 anime/
     ├── ♟️ code_geass
     ├── 📓 death_note
     ├── 👹 monster
