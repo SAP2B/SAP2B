@@ -94,6 +94,7 @@
     ├── 🛡️ vinland_saga
     ├── 🗡️ berserk
     ├── 🧝🏻‍♀️ elfen_lied
+    ├── 🕳️ made_in_abyss
     └── 🎣 hunter_x_hunter
 </pre>
 </h2>
